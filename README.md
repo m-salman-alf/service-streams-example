@@ -1,16 +1,9 @@
-# service_streams_example
+# Service with Streams Example
 
-A new Flutter project.
+An example of the Service with Streams architecture used in Toco.
+
+![image](https://github.com/m-salman-alf/service-streams-example/assets/119282759/ccbf70d2-2216-43a0-9844-8dbad1b7da67)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run the project use the latest stable branch from flutter and the `flutter run` command.
