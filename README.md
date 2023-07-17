@@ -6,7 +6,7 @@ An example of the Service with Streams architecture used in Toco.
 
 ## Getting Started
 
-To run the project use the latest stable branch from flutter and the `flutter run` command.
+To run the project use the latest **stable** branch from flutter and the `flutter run` command.
 
 ## Contributing
 
